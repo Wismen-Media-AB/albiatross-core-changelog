@@ -11,7 +11,7 @@ Version update change notes describing new features and bugfixes for Albia Cloud
 ## 1.0.6 - 2024-04-04
  - Bugfix - wrong row gets selected after applying filters/sorting data grid
 
-## 1.0.5 -  2024-03-18
+## 1.0.5 - 2024-03-18
 - Bugfix - incorrect permission check
 
 ## 1.0.4 - 2024-03-07
