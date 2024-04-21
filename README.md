@@ -1,6 +1,10 @@
 # Albia Cloud Changelog
 Version update change notes describing new features and bugfixes for Albia Cloud.
 
+## 1.0.8 - 2024-04-22
+- Admins can now send password reset email to users
+- The login page is now more responsive and works better on devices with small screens
+
 ## 1.0.7 - 2024-04-14
 - Default language can be set for each application
 - Password reset feature has been added
