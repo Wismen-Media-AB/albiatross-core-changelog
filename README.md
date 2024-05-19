@@ -1,6 +1,13 @@
 # Albia Cloud Changelog
 Version update change notes describing new features and bugfixes for Albia Cloud.
 
+## 1.0.9 - 2024-05-19
+- Page transition animation is removed
+- Extension menu buttons can be marked with an icon
+- See the last time a user was signed in
+- See what permissions a user has via their details page
+- Some form field validations are now improved and translated
+
 ## 1.0.8 - 2024-04-22
 - Admins can now send password reset email to users
 - The login page is now more responsive and works better on devices with small screens
