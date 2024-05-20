@@ -4,6 +4,7 @@ Version update change notes describing new features and bugfixes for Albia Cloud
 ## 1.0.9 - 2024-05-19
 - Bugfix - Companies can now be deleted
 - Page transition animation is removed
+- Data grids can now be initially sorted by any column, e.g alphabetically by name
 - Extension menu buttons can be marked with an icon
 - See the last time a user was signed in
 - See what permissions a user has via their details page
