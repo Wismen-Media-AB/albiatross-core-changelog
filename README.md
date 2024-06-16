@@ -1,6 +1,10 @@
 # Albia Cloud Changelog
 Version update change notes describing new features and bugfixes for Albia Cloud.
 
+## 1.0.11 - 2024-06-17
+- Users can now have multiple roles
+- Users see their associated data, company, and permissions in real-time directly from the database. Previously, manual page reloads were required after changes.
+
 ## 1.0.10 - 2024-05-27
 - Companies without users can now be deleted
 - Bugfix - Users can now be "unlinked" from a company before deleting it
