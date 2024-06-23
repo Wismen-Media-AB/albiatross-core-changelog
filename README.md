@@ -1,9 +1,18 @@
 # Albia Cloud Changelog
 Version update change notes describing new features and bugfixes for Albia Cloud.
 
+## 1.1.0 - 2024-06-24
+- Support for sorting files by priority
+- Support for renaming files
+- Admins can now update name and description of roles
+- Admins can now delete roles
+- Version info is also displayed at login screen
+- Switched to a more modern render engine with higher performance for animations etc
+- Various adjustments to give the graphical interface a more consistent theme
+
 ## 1.0.11 - 2024-06-17
 - Users can now have multiple roles
-- Users see their associated data, company, and permissions in real-time directly from the database. Previously, manual page reloads were required after changes.
+- Users see their associated data, company and permissions in real-time directly from the database. Previously, manual page reloads were required after changes.
 
 ## 1.0.10 - 2024-05-27
 - Companies without users can now be deleted
