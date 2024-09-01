@@ -1,6 +1,12 @@
 # Albia Cloud Changelog
 Version update change notes describing new features and bugfixes for Albia Cloud.
 
+## 1.2.0 2024-09-01
+- Users can see their own roles on their profile page
+- Users can be added to a company from the company details view
+- Changing theme and language settings no longer causes a redirect to home page
+- Companies that are not synced/imported from an external system can be edited (name, orgnumber, customernumber)
+
 ## 1.1.0 - 2024-06-24
 - Support for sorting files by priority
 - Support for renaming files
