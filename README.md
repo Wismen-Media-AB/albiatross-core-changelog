@@ -1,5 +1,4 @@
-# Albia Cloud Changelog
-Version update change notes describing new features and bugfixes for Albia Cloud.
+Version change notes describing new features and bugfixes for each release of Albia Cloud.
 
 ## 1.2.0 - 2024-09-01
 - Users can see their own roles on their profile page
