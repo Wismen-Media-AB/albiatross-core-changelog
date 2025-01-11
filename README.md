@@ -1,7 +1,7 @@
 Version change notes describing new features and bugfixes for each release of Albia Cloud.
 
 ## 2.1.12 - 2025-01-11
-- Fix page transition bug where old title blends into title on new page causing an unpleasant page transition
+- Fix page transition bug where old title blends into title on new page causing an unpleasant look
 - Upgrade to Flutter 3.27.1
 - Adjust code for Web Assembly compilation, to better make use of client device resources
 - Cache fetched data from the database to increase performance
