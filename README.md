@@ -1,5 +1,11 @@
 Version change notes describing new features and bugfixes for each release of Albia Cloud.
 
+## 2.1.12 - 2025-01-11
+- Fix page transition bug where title blends into title on new page causing an unpleasant page transition
+- Upgrade to Flutter 3.27.1
+- Adjust code for Web Assembly compilation, to better make use of client device resources
+- Cache fetched data from the database to increase performance
+
 ## 1.2.0 - 2024-09-01
 - Users can see their own roles on their profile page
 - Users can be added to a company from the company details view
